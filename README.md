@@ -1,6 +1,6 @@
-# curriculum-vitae
+# cv/resume
 
-## save the lua filter in a directory and cd into the directory with md file
+## Step 1: Save columns.lua into pandoc/filters directory and cd into the directory with the cv.md markdown file
 
 ```
 cd obsidian
