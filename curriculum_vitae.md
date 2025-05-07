@@ -34,12 +34,14 @@ Chestnut Hill, MA, United States  \
 
 # RESEARCH
 
-**SSIG**, *Student Surgery Interest Group*, Jagiellonian University Medical College  \
-  Position: Chair of Research, November 2024-current.  \
-**Artromedical**, *Artromedical Orthopedic Clinic Research Lab*, February 2023–2024.  \
-  Position: Doctoral/Graduate Research Fellow  \
-**iEBA-WG**, *International Evidence-Based Anatomy Working Group*, June 2021–2023.  \
-  Position: Graduate Research Fellow  
+**Chair of Research** 
+*Student Surgery Interest Group*, Jagiellonian University Medical College November 2024-.  \
+
+**Doctoral/Graduate Research Fellow**
+Artromedical Orthopedic Clinic Research Lab*, February 2023–  \
+
+**Research Assistant**
+*International Evidence-Based Anatomy Working Group*, June 2021–.  \
   
 \columnbreak  
   
@@ -55,7 +57,7 @@ e-mail: dongwkim.danny@gmail.com  \
 Kraków, Polska  \
 **lekarz**, kierunek lekarski, czerwiec 2025.  \
 **doktorat**, sierpień 2023-obecnie.   \
-Opiekun naukowy: Prof. Konrad Malinowski MD, PhD  
+Opiekun naukowy: Prof. Konrad Malinowski MD PhD
  
 **Boston College**  \
 Chestnut Hill, MA, Stany Zjednoczone  \
@@ -131,8 +133,6 @@ Anatomy of the greater palatine foramen and canal and their clinical significanc
 :::
 
 # REFERENCES
-
-malwin8@wp.pl
 
 
 
