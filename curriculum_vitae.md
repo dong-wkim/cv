@@ -16,20 +16,24 @@ geometry:
 
 Date of birth: 02/16/1994  
 Phone number: +1 (631) 202-8480  
-e-mail: dongwkim.danny@gmail.com  
+e-mail: danny@dongwkim.com
 
 # EDUCATION
 
-**Jagiellonian University Medical College**  \
-Kraków, Poland  \
-**MD**, Doctor of Medicine, expected June 2025.  \
-**PhD**, Doctor of Philosophy, August 2023–current.  \
- Supervisor: Prof. Konrad Malinowski MD, PhD  
+**Masters of Science in Data Science**, MSDS  \
+Bellevue University \
+Bellevue, NE, United States  \
 
-**Boston College**  \
+**Doctor of Medicine**, MD  \
+Jagiellonian University Medical College
+Kraków, Poland  \
+
+**Bachelor of Science in Biology** BS Biology  \
+  *cum laude* (with honors)  \
+**Bachelor of Arts in Psychology** BA Psychology \
+  *magna cum laude* (with high honors)
+Boston College  \
 Chestnut Hill, MA, United States  \
-**BS**, *cum laude* (with honors), Biology, June 2016.  \
-**BA**, *magna cum laude* (with high honors), Psychology, August 2016.  
 
 
 # RESEARCH
