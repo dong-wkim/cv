@@ -21,7 +21,7 @@ e-mail: danny@dongwkim.com
 # EDUCATION
 
 **Masters of Science in Data Science**, MSDS  \
-Bellevue University \
+Bellevue University  \
 Bellevue, NE, United States  \
 
 **Doctor of Medicine**, MD  \
@@ -30,8 +30,8 @@ Kraków, Poland  \
 
 **Bachelor of Science in Biology** BS Biology  \
   *cum laude* (with honors)  \
-**Bachelor of Arts in Psychology** BA Psychology \
-  *magna cum laude* (with high honors)
+**Bachelor of Arts in Psychology** BA Psychology  \
+<nbsp>*magna cum laude* (with high honors)
 Boston College  \
 Chestnut Hill, MA, United States  \
 
