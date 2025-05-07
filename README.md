@@ -1,15 +1,23 @@
-# cv/resume
+# CV/Reśumé
 
-## Step 1: Save columns.lua into pandoc/filters directory and cd into the directory with the cv.md markdown file
+Create a CV in two languages, side-by-side in two columns using markdown and pandoc.
 
-```
-cd obsidian
-
-```
-
-## invoke pandoc with lua filter
+**Step 1**: install pandoc
 
 ```
-pandoc --lua-filter="/Users/dongwkim/.pandoc/filters/columns.lua" -o cv.pdf curriculum_vitae.md
+sudo apt install pandoc
+```
+
+**Step 2**: download columns.lua from github.com/pandoc/filters/columns/columns.lua.
+
+```
+git clone https://github.com/pandoc/filters/columns/columns.lua <pandoc directory>
+
+```
+
+**Step 3**: create PDF version by invoke pandoc with lua filter extension
+
+```
+pandoc --lua-filter="/Users/dongwkim/.pandoc/filters/columns.lua" -o cv.pdf cv.md
 cv.pdf
 ```
