@@ -15,9 +15,11 @@ git clone https://github.com/pandoc/filters/columns/columns.lua <pandoc director
 
 ```
 
+And place columns.lua into directory with cv.md file. Open terminal in directory with cv.md and cv.md.
+
+
 **Step 3**: create PDF version by invoke pandoc with lua filter extension
 
 ```
-pandoc --lua-filter="/Users/dongwkim/.pandoc/filters/columns.lua" -o cv.pdf cv.md
-cv.pdf
+pandoc --lua-filter="columns.lua" -o cv.pdf cv.md
 ```
