@@ -1,5 +1,9 @@
-# CV/Reśumé
+---
+title: bi-lingual CV/reśumé creation using multi-column markdown and pandoc
+author: Dong Woon Kim
+---
 
+**Description**:
 Create a CV in two languages, side-by-side in two columns using markdown and pandoc.
 
 **Step 1**: install pandoc
