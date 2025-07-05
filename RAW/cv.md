@@ -10,6 +10,12 @@ geometry:
 - right = 1.5cm
 ---
 
+[research_gate]: (research gate)[researchgate.com/
+[orcid]: (ORCID)
+[gscholar]: (Google Scholar)[
+[github]: (github)[https://github.com/dong-wkim]
+[open_science_framework]: [osf.io/
+
 ::: twocolumns
 
 # PERSONAL INFORMATION
@@ -76,25 +82,25 @@ Uniwersytet Jagielloński Collegium Medicum
 
 # PUBLICATIONS
 
-Lateral femoral impaction fractures during an ACL tear extend posteriorly on the weight-bearing area of the tibiofemoral joint. *Knee Surg Sports Traumatol Arthrosc.* 2024 Oct 24. doi: 10.1002/ksa.12438  
+[10] Lateral femoral impaction fractures during an ACL tear extend posteriorly on the weight-bearing area of the tibiofemoral joint. *Knee Surg Sports Traumatol Arthrosc.* 2024 Oct 24. doi: 10.1002/ksa.12438  
 
-Transient spontaneous osteonecrosis of the knee (SONK) shortly after SARS-CoV-2 infection: A report of 2 cases. *Adv Clin Exp Med.* 2022 doi: 10.17219/acem/153004  
+[9] Transient spontaneous osteonecrosis of the knee (SONK) shortly after SARS-CoV-2 infection: A report of 2 cases. *Adv Clin Exp Med.* 2022 doi: 10.17219/acem/153004  
 
-Incomplete meniscal healing in early second-look arthroscopy does not indicate failure of repair: a case series. *Int Orthop.* 2023 Oct;47(10):2507-2513. doi: 10.1007/s00264-023-05868-w  
+[8] Incomplete meniscal healing in early second-look arthroscopy does not indicate failure of repair: a case series. *Int Orthop.* 2023 Oct;47(10):2507-2513. doi: 10.1007/s00264-023-05868-w  
 
-Gluteal Complex is important in External Snapping Hip: intraoperative identification of syndrome origin and endoscopic stepwise release-a case series. *Int Orthop.* 2024 Feb doi: 10.1007/s00264-023-05961-0  
+[7] Gluteal Complex is important in External Snapping Hip: intraoperative identification of syndrome origin and endoscopic stepwise release-a case series. *Int Orthop.* 2024 Feb doi: 10.1007/s00264-023-05961-0  
 
-ACL Mucoid Degeneration-Anterior and Posterior Arthroscopic Decompression for Combined Knee Flexion-Extension Deficit. *Arthrosc Tech.* 2023 Aug 7;12(9):e1495-e1505. doi: 10.1016/j.eats.2023.04.022  
+[6] ACL Mucoid Degeneration-Anterior and Posterior Arthroscopic Decompression for Combined Knee Flexion-Extension Deficit. *Arthrosc Tech.* 2023 Aug 7;12(9):e1495-e1505. doi: 10.1016/j.eats.2023.04.022  
 
-Knee extension contracture with fixed anterior tibia subluxation treated with PCL release and quadricepsplasty: a case report. *J Exp Orthop.* 2023 Nov 29;10(1):125. doi: 10.1186/s40634-023-00703-y  
+[5] Knee extension contracture with fixed anterior tibia subluxation treated with PCL release and quadricepsplasty: a case report. *J Exp Orthop.* 2023 Nov 29;10(1):125. doi: 10.1186/s40634-023-00703-y  
 
-Arthroscopic Trans-septal Portal of the Knee With Direct Visualization and No Need for Posterolateral Portal Creation. *Arthrosc Tech.* 2023 Nov 27;12(12):e2369-e2374. doi: 10.1016/j.eats.2023.08.007  
+[4] Arthroscopic Trans-septal Portal of the Knee With Direct Visualization and No Need for Posterolateral Portal Creation. *Arthrosc Tech.* 2023 Nov 27;12(12):e2369-e2374. doi: 10.1016/j.eats.2023.08.007  
 
-Patellar Base Support Technique During Manipulation Under Anesthesia for Knee Arthrofibrosis Limits the Risk of Iatrogenic Complications. *Arthrosc Tech. 2023* Nov 27;12(12):e2321-e2327. doi: 10.1016/j.eats.2023.08.001  
+[3] Patellar Base Support Technique During Manipulation Under Anesthesia for Knee Arthrofibrosis Limits the Risk of Iatrogenic Complications. *Arthrosc Tech. 2023* Nov 27;12(12):e2321-e2327. doi: 10.1016/j.eats.2023.08.001  
 
-Evidence-based research in orthopaedics, sports medicine and rehabilitation-Why new studies should rely on earlier work. *Knee Surg Sports Traumatol Arthrosc.* 2024 Oct 21. doi: 10.1002/ksa.12474  
+[2]Evidence-based research in orthopaedics, sports medicine and rehabilitation-Why new studies should rely on earlier work. *Knee Surg Sports Traumatol Arthrosc.* 2024 Oct 21. doi: 10.1002/ksa.12474  
 
-Anatomy of the greater palatine foramen and canal and their clinical significance in relation to the greater palatine artery: a systematic review and meta-analysis. *Surg Radiol Anat*. 2023 Feb;45(2):101-119. doi: 10.1007/s00276-022-03061-z  
+[1] Anatomy of the greater palatine foramen and canal and their clinical significance in relation to the greater palatine artery: a systematic review and meta-analysis. *Surg Radiol Anat*. 2023 Feb;45(2):101-119. doi: 10.1007/s00276-022-03061-z  
 
 
 ::: twocolumns
@@ -129,6 +135,22 @@ Anatomy of the greater palatine foramen and canal and their clinical significanc
   - przyznane na podstawie wybitnych osiągnięć naukowych  
 
 :::
+
+# RELEVANT PREVIOUS COURSES
+
+**Completed and current coursework**:
+
+[1] **Introduction to Data Science** Bellevue University, 2024
+[2] **Introduction to Programming in Python for Data Science** Bellevue University, 2024-2025
+[3] **Management and Design of Database Systems** Bellevue University, 2025
+[4] **Statistics for Data Science** Bellevue University, 2025-current
+
+**Certification courses**:
+
+[1] **Writing in the Sciences** Stanford University, 2023
+[2] **Introduction to Systematic Reviews and Meta-Analyses** Johns Hopkins University, 2023
+[3] **Microsoft Access - Basic Certification** Linkedin Learning, 2023
+
 
 # REFERENCES
 
