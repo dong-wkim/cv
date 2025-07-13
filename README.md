@@ -4,7 +4,7 @@ author: Dong Woon Kim
 ---
 
 **Description**:
-Create a CV in two languages, side-by-side in two columns using markdown and pandoc.
+Creation of one dual-lingual document with side-by-side alignment from two separate markdown files, each written in a different language. Just write a document (such as a CV) in one language, then the same in another language, and this script will produce one document with both languages on one page.
 
 **Step 1**: install pandoc
 
